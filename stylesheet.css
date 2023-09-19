@@ -1,1 +1,23 @@
+h1{
+  fontfamily:bold;
+  font-size: 45;
+  color: orangered;
+}
 
+li{
+  font-size: 30;
+  color: orange;
+  
+} 
+  
+p{
+  color: orange;
+  font-size: 30;
+
+}
+
+h3{
+  fontfamily:bold;
+  font-size: 20;
+  color: grey;
+}
